@@ -5,3 +5,5 @@
 * Monster Sounds: Titled "Monsters Sounds by Bernuy >> werewolf howls and growls", created by Bernuy under CCA License, edited with truncation & amplification
 * Radio Song: Titled "The White Witch & The Black Magic Man", created by The Footlight District, found at https://www.youtube.com/watch?v=5ycpS4OVjWA, possibly used under Fair Use
 * Glass Breaking: Titled "Breaking Glass", created by gevaroy under CC0 License, found at https://freesound.org/people/gevaroy/sounds/173559/
+* Weird Mystery Sound: Titled "Mystery Sound"
+* Original sounds: phone ringing, floorboards, door closing & slamming, conversations, gasps & screams, ambient night sounds (Outside Bugs & Others downloaded and overlayed on original sounds), and loud thud (drop-in) sound.

@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="soundscapeProject_data" version="1.3.0" audacityversion="2.3.2" sel0="195.5724599540" sel1="195.5724599540" vpos="2272" h="0.0000000000" zoom="87.3333597380" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="mai-coh_data" version="1.3.0" audacityversion="2.3.2" sel0="138.1373628159" sel1="148.9808548793" vpos="96" h="122.6106499529" zoom="87.3333597376" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags>
 		<tag name="COMMENTS" value="Praise the sun..."/>
 	</tags>
@@ -33,7 +33,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="campbegin" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="campbegin" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="15.77861678" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="6008403">
 				<waveblock start="0">
@@ -91,22 +91,22 @@
 					<simpleblockfile filename="e0800ace.au" len="262144" min="-0.026703" max="0.025177" rms="0.004581"/>
 				</waveblock>
 				<waveblock start="4678993">
-					<simpleblockfile filename="e0800828.au" len="262144" min="-0.117126" max="0.109161" rms="0.004345"/>
+					<simpleblockfile filename="e080822a.au" len="262144" min="-0.114207" max="0.107367" rms="0.004245"/>
 				</waveblock>
 				<waveblock start="4941137">
-					<simpleblockfile filename="e080090b.au" len="262144" min="-0.580994" max="0.93927" rms="0.008018"/>
+					<simpleblockfile filename="e0808d6f.au" len="262144" min="-0.568412" max="0.920185" rms="0.007835"/>
 				</waveblock>
 				<waveblock start="5203281">
-					<simpleblockfile filename="e0800b62.au" len="262144" min="-0.867645" max="0.939911" rms="0.029761"/>
+					<simpleblockfile filename="e0808823.au" len="192740" min="-0.849093" max="0.920812" rms="0.008601"/>
 				</waveblock>
-				<waveblock start="5465425">
-					<simpleblockfile filename="e0800dda.au" len="262144" min="-0.930878" max="0.963654" rms="0.150912"/>
+				<waveblock start="5396021">
+					<simpleblockfile filename="e0808a92.au" len="204127" min="-0.526866" max="0.545714" rms="0.028179"/>
 				</waveblock>
-				<waveblock start="5727569">
-					<simpleblockfile filename="e080087f.au" len="262144" min="-0.939606" max="0.939575" rms="0.088346"/>
+				<waveblock start="5600148">
+					<simpleblockfile filename="e0808396.au" len="204127" min="-0.886534" max="0.765154" rms="0.072482"/>
 				</waveblock>
-				<waveblock start="5989713">
-					<simpleblockfile filename="e0800eda.au" len="18690" min="-0.062012" max="0.03479" rms="0.003983"/>
+				<waveblock start="5804275">
+					<simpleblockfile filename="e08088c5.au" len="204128" min="-0.563518" max="0.405144" rms="0.007142"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
@@ -132,7 +132,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="werewolf-howl" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="werewolf-howl" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="59.15264700" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="258541">
 				<waveblock start="0">
@@ -184,13 +184,13 @@
 		<waveclip offset="197.23276462" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="88873">
 				<waveblock start="0">
-					<simpleblockfile filename="e080568a.au" len="88873" min="-0.113736" max="0.105074" rms="0.020335"/>
+					<simpleblockfile filename="e080895e.au" len="88873" min="-0.11098" max="0.103525" rms="0.018723"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="werewolf-howl" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="werewolf-howl" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="59.15264700" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="258541">
 				<waveblock start="0">
@@ -242,7 +242,7 @@
 		<waveclip offset="197.23276462" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="88873">
 				<waveblock start="0">
-					<simpleblockfile filename="e0805c5d.au" len="88873" min="-0.139124" max="0.145648" rms="0.024505"/>
+					<simpleblockfile filename="e08088b7.au" len="88873" min="-0.139124" max="0.145648" rms="0.022535"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
@@ -271,7 +271,7 @@
 		</waveclip>
 	</wavetrack>
 	<wavetrack name="lock" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
-		<waveclip offset="149.36244898" colorindex="0">
+		<waveclip offset="146.79757370" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="102146">
 				<waveblock start="0">
 					<simpleblockfile filename="e08002d2.au" len="102146" min="-0.51944" max="0.464935" rms="0.017135"/>
@@ -317,13 +317,13 @@
 		<waveclip offset="185.02705215" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="562690">
 				<waveblock start="0">
-					<simpleblockfile filename="e080039b.au" len="262144" min="-0.080078" max="0.088287" rms="0.00778"/>
+					<simpleblockfile filename="e080892d.au" len="262144" min="-0.073343" max="0.083596" rms="0.007627"/>
 				</waveblock>
 				<waveblock start="262144">
-					<simpleblockfile filename="e0800670.au" len="262144" min="-0.048431" max="0.050995" rms="0.005004"/>
+					<simpleblockfile filename="e0808047.au" len="262144" min="-0.044484" max="0.045913" rms="0.004887"/>
 				</waveblock>
 				<waveblock start="524288">
-					<simpleblockfile filename="e080046b.au" len="38402" min="-0.011292" max="0.009613" rms="0.002151"/>
+					<simpleblockfile filename="e0808cd9.au" len="38402" min="-0.010248" max="0.007929" rms="0.002129"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
@@ -1177,11 +1177,11 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="mystery-sound" channel="2" linked="0" mute="1" solo="0" height="157" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
-		<waveclip offset="0.00000000" colorindex="0">
+	<wavetrack name="mystery-sound" channel="2" linked="0" mute="0" solo="0" height="157" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="137.13796499" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="70272">
 				<waveblock start="0">
-					<simpleblockfile filename="e0800f71.au" len="70272" min="-0.230971" max="0.248796" rms="0.02296"/>
+					<simpleblockfile filename="e08088da.au" len="70272" min="-0.034959" max="0.037657" rms="0.003475"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
